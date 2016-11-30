@@ -1,0 +1,1 @@
+# sdgc-cordova-native-dialogs
